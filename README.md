@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ahmed Shehab 👋
 
-<!--
-**Ahmed-Shehab-Source/Ahmed-Shehab-Source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Business Analyst & Data Scientist
+Highly focused on data analytics, workflow automation, and predictive modeling. Turning complex data into interactive dashboards and actionable business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+### Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### Automation & Core
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Performance
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Shehab-Source&show_icons=true&theme=calm&bg_color=0d1117&title_color=8055A2&icon_color=8055A2&text_color=c9d1d9" alt="Ahmed's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Shehab-Source&layout=compact&theme=calm&bg_color=0d1117&title_color=8055A2&text_color=c9d1d9" alt="Top Languages" height="150" />
+</p>
