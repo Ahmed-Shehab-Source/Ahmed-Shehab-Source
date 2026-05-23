@@ -67,16 +67,6 @@ Currently pursuing a **B.Sc. in Business Technology (Business Analysis)** at Egy
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Shehab-Source&show_icons=true&hide_border=true)](https://github.com/Ahmed-Shehab-Source)
-
-</div>
-
----
-
 ## Certifications
 
 - 🏅 [Data Analyst Professional Certificate — DataCamp](https://github.com/Ahmed-Shehab-Source/Certifications/blob/main/DA0027603213442.pdf)
