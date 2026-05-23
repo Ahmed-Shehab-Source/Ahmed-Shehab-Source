@@ -71,9 +71,7 @@ Currently pursuing a **B.Sc. in Business Technology (Business Analysis)** at Egy
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Shehab-Source&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Shehab-Source&layout=compact&theme=default&hide_border=true)
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Shehab-Source&show_icons=true&hide_border=true)](https://github.com/Ahmed-Shehab-Source)
 
 </div>
 
