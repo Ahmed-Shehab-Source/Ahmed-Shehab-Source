@@ -21,6 +21,6 @@ Highly focused on data analytics, workflow automation, and predictive modeling. 
 
 ## 📈 GitHub Performance
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Shehab-Source&show_icons=true&theme=calm&bg_color=0d1117&title_color=8055A2&icon_color=8055A2&text_color=c9d1d9" alt="Ahmed's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Shehab-Source&layout=compact&theme=calm&bg_color=0d1117&title_color=8055A2&text_color=c9d1d9" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.io/api?username=Ahmed-Shehab-Source&show_icons=true&theme=calm&bg_color=0d1117&title_color=8055A2&icon_color=8055A2&text_color=c9d1d9" alt="Ahmed's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.io/api/top-langs/?username=Ahmed-Shehab-Source&layout=compact&theme=calm&bg_color=0d1117&title_color=8055A2&text_color=c9d1d9" alt="Top Languages" height="150" />
 </p>
