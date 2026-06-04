@@ -52,7 +52,6 @@ Currently pursuing a **B.Sc. in Business Technology (Business Analysis)** at Egy
 **Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
